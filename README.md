@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesabelilla&theme=radical" />
-
-<img aligh="right" alt="fesabelilla's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fesabelilla&show_icons=true&theme=radical" />
+<img aligh="left" alt="fesabelilla's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fesabelilla&show_icons=true&theme=radical" />
 
 <br />
 
