@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 
 #### Personal Portfolio: [Md Zahid Fesabelilla](https://mdzahidfesabelilla.wordpress.com/)
 #### Linkedin: [Md Zahid Fesabelilla](https://www.linkedin.com/in/md-zahid-fesabelilla-575504141/)
+#### Blog: [Md Zahid Fesabelilla](https://mdzahidfesabelilla.wordpress.com/)
+
