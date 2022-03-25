@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Spring Boot
-- 🌱 I’m currently learning Spring Security, golang
+- 🌱 I’m currently learning Spring Security, Golang and Microservices
 - 👯 I’m looking to collaborate on Spring Boot projects
 
 
