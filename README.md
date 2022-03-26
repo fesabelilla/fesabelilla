@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 <br />
 
+[<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fesabelilla&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>](https://github.com/fesabelilla)
 ---
-
+💬 <b>Drop a mail:</b> <a href="mailto:fesabelilla@gmail.com" target="_blank">fesabelilla@gmail.com</a>
 <br />
 
 #### Personal Portfolio: [Md Zahid Fesabelilla](https://mdzahidfesabelilla.wordpress.com/)
