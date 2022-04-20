@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 
 ---
-<img aligh="left" width="300" alt="fesabelilla's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fesabelilla&show_icons=true&theme=radical" />[<img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=fesabelilla&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>](https://github.com/fesabelilla)
+<img aligh="left" width="350" hight="400" alt="fesabelilla's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fesabelilla&show_icons=true&theme=radical" />[<img align="right" width="350"  hight="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fesabelilla&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>](https://github.com/fesabelilla)
 ---
 
 <br />
