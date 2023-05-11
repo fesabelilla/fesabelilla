@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Spring Boot, <a href="https://opensource.indeedeng.io/proctor/" target="_blank">ABTest</a>, Recommendation System 
+<!-- - 🔭 I’m currently working on Spring Boot, <a href="https://opensource.indeedeng.io/proctor/" target="_blank">ABTest</a>, Recommendation System 
 - 🌱 I’m currently learning Spring Security, Golang, Microservices, Kafka and Reactive Programming
--  I’m looking to collaborate on Spring Boot projects
+-  I’m looking to collaborate on Spring Boot projects -->
 
 <br />
 
