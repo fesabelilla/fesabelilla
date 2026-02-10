@@ -1,6 +1,6 @@
 ## **Md. Zahid Fesabelilla** [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=fesabelilla&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>](https://github.com/fesabelilla)
 
-> Software Engineer, Backend | AI/ML at [Webb Fontaine]([https://rokomari.com/](https://webbfontaine.com/))
+> Software Engineer, Backend at [Webb Fontaine]([https://rokomari.com/](https://webbfontaine.com/))
 
 [![](https://img.shields.io/badge/Blog-fesabelilla-0A1A2F?style=flat)](https://fesabelilla.medium.com)
 [![](https://img.shields.io/badge/-FesaBelilla-0A1A2F?style=flat&logo=linkedin)](https://www.linkedin.com/in/fesabelilla)
